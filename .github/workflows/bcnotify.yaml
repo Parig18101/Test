@@ -1,4 +1,4 @@
-name: "bc-notification"
+name: "bc-noti"
 on: 
   issues:
     types: [labeled]
